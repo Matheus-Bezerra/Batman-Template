@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-    <img src="img/logo.svg" width="200"> 
+    <img src="img/Logo.svg" width="200"> 
 <br>
 </h1>
 <hr>
@@ -9,9 +9,9 @@
 
 <div align="center">
     <img src="img/projeto-batman-animacao.gif" alt="Batman-animacao" height="425">
-    <img src="img/projeto-batman-responsividadev2.gif" alt="Batman-responsividade" height="425">
-    <img src="img/projeto-batman-smart.gif" alt="Batman-smart-gif" height="425">
-    <img src="img/projeto-batman-tablet.JPG" alt="Batman-Tablet" height="425">
+    <img src="img/projeto-batman-responsividade.gif" alt="Batman-responsividade" height="425">
+    <img src="img/projeto-Batman-smart.gif" alt="Batman-smart-gif" height="425">
+    <img src="img/projeto-Batman-tablet.JPG" alt="Batman-Tablet" height="425">
 </div>
 
 ---
