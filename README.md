@@ -9,7 +9,7 @@
 
 <div align="center">
     <img src="img/projeto-batman-animacao.gif" alt="Batman-animacao" height="425">
-    <img src="img/projeto-batman-responsividade.gif" alt="Batman-responsividade" height="425">
+    <img src="img/projeto-Batman-responsividade.gif" alt="Batman-responsividade" height="425">
     <img src="img/projeto-Batman-smart.gif" alt="Batman-smart-gif" height="425">
     <img src="img/projeto-Batman-tablet.JPG" alt="Batman-Tablet" height="425">
 </div>
